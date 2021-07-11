@@ -1,3 +1,6 @@
+jwt:
+  secret: 'eaiojqsd_&çapjlqfdçijeç_r_ç&_ç"ç_iosdjfq5$$5988'
+
 server:
   port: 8082
 spring:
